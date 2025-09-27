@@ -12,7 +12,7 @@ This project applies **clustering techniques** to segment customers based on pur
 - **Evaluation**: Silhouette Score, Davies-Bouldin Index, Calinski-Harabasz Index.
 
 ## 📊 Results
-- Best Model: **KMeans (k=4)**
+- Best Model: **KMeans (k=3)**
 - Segments Identified:
   1. High-Income Big Spenders
   2. Budget-Conscious Families
